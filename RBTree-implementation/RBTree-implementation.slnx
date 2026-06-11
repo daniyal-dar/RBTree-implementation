@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RBTree-implementation/RBTree-implementation.vcxproj" />
+  <Project Path="RBTree-implementation/RBTree-implementation.vcxproj" Id="03357bf2-da68-4e06-90c4-8767a2075778" />
 </Solution>

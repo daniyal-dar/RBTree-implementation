@@ -1,13 +1,10 @@
 #pragma once
 
+enum colour { RED, BLACK };
 
-enum color { RED, BLACK };
-
-
-template<typename T>
 struct node {
-    T data;                    // Data/Key value
-    color color;               // Node color
+    int data;                  // Data/Key value
+    colour colour;             // Node colour
     node* leftChild;           // Left child pointer
     node* rightChild;          // Right child pointer
 };
